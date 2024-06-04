@@ -1,0 +1,357 @@
+[
+    
+    {
+        "name": "Rover-Spectro",
+        "stats": {
+          "level": 90,
+          "hp": 11400.00,
+          "atk": 375.00,
+          "def": 1368.89,
+          "critRate": 5.00,
+          "critDmg": 150.00
+        },
+        "scalingStat": "atk",
+        "skills": [
+          { "name": "Basic Attack - Vibration Manifestation", "mv": 280.54, "priority": 1 },
+          { "name": "Heavy Attack", "mv": 288.62, "priority": 1 },
+          { "name": "Heavy Attack: Resonance", "mv": 288.62, "priority": 1 },
+          { "name": "Heavy Attack: Aftertune", "mv": 339.03, "priority": 1 },
+          { "name": "Mid-air Attack", "mv": 314.34, "priority": 1 },
+          { "name": "Dodge Counter", "mv": 390.68, "priority": 1 },
+          { "name": "Resonance Skill - Resonating Slashes", "mv": 236.19, "priority": 2 },
+          { "name": "Resonance Liberation - Echoing Orchestra", "mv": 874.77, "priority": 3 },
+          { "name": "Intro Skill - Waveshock", "mv": 168.99, "priority": 4 },
+          { "name": "Forte Circuit - World in a Grain of Sand", "mv": 318.10, "priority": 5 },
+          { "name": "Outro Skill - Instant", "mv": 0, "priority": 6 }
+        ]
+      },      
+    {
+      "name": "Rover-Havoc",
+      "stats": {
+        "level": 90,
+        "hp": 10825.00,
+        "atk": 412.50,
+        "def": 1258.89,
+        "critRate": 5.00,
+        "critDmg": 150.00
+      },
+      "scalingStat": "atk",
+      "skills": [
+        { "name": "Basic Attack - Tuneslayer", "mv": 56.67, "priority": 1 },
+        { "name": "Heavy Attack", "mv": 95.43, "priority": 1 },
+        { "name": "Mid-Air Attack", "mv": 117.10, "priority": 1 },
+        { "name": "Dodge Counter", "mv": 179.43, "priority": 1 },
+        { "name": "Resonance Skill - Wingblade", "mv": 286.29, "priority": 2 },
+        { "name": "Resonance Liberation - Deadening Abyss", "mv": 1520.90, "priority": 3 },
+        { "name": "Intro Skill - Instant of Annihilation", "mv": 198.81, "priority": 4 },
+        { "name": "Devastation", "mv": 228.14, "priority": 1 },
+        { "name": "Umbra: Basic Attack Part 1", "mv": 56.37, "priority": 1 },
+        { "name": "Umbra: Basic Attack Part 2", "mv": 93.94, "priority": 1 },
+        { "name": "Umbra: Basic Attack Part 3", "mv": 155.67, "priority": 1 },
+        { "name": "Umbra: Basic Attack Part 4", "mv": 37.13, "priority": 1 },
+        { "name": "Umbra: Basic Attack Part 5", "mv": 28.52, "priority": 1 },
+        { "name": "Umbra: Heavy Attack", "mv": 128.83, "priority": 1 },
+        { "name": "Umbra: Thwackblade", "mv": 126.65, "priority": 1 },
+        { "name": "Umbra: Plunging Attack", "mv": 123.27, "priority": 1 },
+        { "name": "Umbra: Dodge Counter", "mv": 316.71, "priority": 1 },
+        { "name": "Umbra: Lifetaker", "mv": 276.35, "priority": 2 },
+        { "name": "Outro Skill - Soundweaver", "mv": 143.3, "priority": 5 }
+      ]
+    },
+    {
+      "name": "Jiyan",
+      "stats": {
+        "level": 90,
+        "atk": 437.50,
+        "critRate": 5.00,
+        "critDmg": 150.00
+      },
+      "scalingStat": "atk",
+      "skills": [
+        { "name": "Basic Attack - Lone Lance", "mv": 73.16, "priority": 1 },
+        { "name": "Heavy Attack", "mv": 22.20, "priority": 1 },
+        { "name": "Windborne Strike", "mv": 105.96, "priority": 1 },
+        { "name": "Abyssal Slash", "mv": 81.71, "priority": 1 },
+        { "name": "Mid-Air Attack", "mv": 123.26, "priority": 1 },
+        { "name": "Banner Of Triumph", "mv": 79.52, "priority": 1 },
+        { "name": "Mid-Air Attack Follow-Up", "mv": 155.66, "priority": 1 },
+        { "name": "Dodge Counter", "mv": 125.85, "priority": 1 },
+        { "name": "Resonance Skill - Windqueller", "mv": 106.36, "priority": 2 },
+        { "name": "Lance Of Qingloong Part 1", "mv": 65.52, "priority": 1 },
+        { "name": "Lance Of Qingloong Part 2", "mv": 61.55, "priority": 1 },
+        { "name": "Lance Of Qingloong Part 3", "mv": 66.76, "priority": 1 },
+        { "name": "Resonance Liberation: Emerald Storm: Finale", "mv": 142.91, "priority": 3 },
+        { "name": "Outro Skill - Discipline", "mv": 313.40, "priority": 5 },
+        { "name": "Intro Skill - Tactical Strike", "mv": 198.81, "priority": 4 }
+      ]
+    },
+    {
+        "name": "Taoqi",
+        "stats": {
+          "level": 90,
+          "hp": 8950.00,
+          "atk": 225.00,
+          "def": 1564.44,
+          "critRate": 5.00,
+          "critDmg": 150.00
+        },
+        "scalingStat": "def",
+        "skills": [
+          { "name": "Basic Attack - Concealed Edge", "mv": 90.15, "priority": 1 },
+          { "name": "Heavy Attack - Rocksteady Defense", "mv": 220.37, "priority": 1 },
+          { "name": "Strategic Parry", "mv": 78.7, "priority": 1 },
+          { "name": "Mid-Air Attack", "mv": 123.27, "priority": 1 },
+          { "name": "Dodge Counter", "mv": 248.52, "priority": 1 },
+          { "name": "Resonance Skill - Fortified Defense", "mv": 134.92, "priority": 2 },
+          { "name": "Resonance Liberation - Unmovable", "mv": 449.71, "priority": 3 },
+          { "name": "Inherent Skill - Steadfast Protection", "mv": 15, "priority": 4 },
+          { "name": "Inherent Skill - Unyielding", "mv": 25, "priority": 5 },
+          { "name": "Intro Skill - Defense Formation", "mv": 208.76, "priority": 6 },
+          { "name": "Forte Circuit - Power Shift", "mv": 86.2, "priority": 7 },
+          { "name": "Outro Skill - Iron Will", "mv": 38, "priority": 8 }
+        ]
+      },
+      {
+        "name": "Calcharo",
+        "stats": {
+          "level": 90,
+          "hp": 10500.00,
+          "atk": 437.50,
+          "def": 1185.55,
+          "critRate": 5.00,
+          "critDmg": 150.00
+        },
+        "scalingStat": "atk",
+        "skills": [
+          { "name": "Basic Attack - Gnawing Fangs", "mv": 45.73, "priority": 1 },
+          { "name": "Heavy Attack", "mv": 41.36, "priority": 1 },
+          { "name": "Mid-Air Attack", "mv": 123.27, "priority": 1 },
+          { "name": "Dodge Counter", "mv": 66.48, "priority": 1 },
+          { "name": "Resonance Skill - Extermination Order", "mv": 51.57, "priority": 2 },
+          { "name": "Resonance Liberation - Phantom Etching", "mv": 596.43, "priority": 3 },
+          { "name": "Inherent Skill - Bloodshed Awaken", "mv": 0, "priority": 4 },
+          { "name": "Inherent Skill - Revenant Rush", "mv": 0, "priority": 5 },
+          { "name": "Intro Skill - Wanted Outlaw", "mv": 39.77, "priority": 6 },
+          { "name": "Forte Circuit - Hunting Mission", "mv": 0, "priority": 7 },
+          { "name": "Outro Skill - Shadowy Raid", "mv": 195.98, "priority": 8 }
+        ]
+      },
+      {
+        "name": "Encore",
+        "stats": {
+          "level": 90,
+          "hp": 10512.50,
+          "atk": 425.00,
+          "def": 1246.66,
+          "critRate": 5.00,
+          "critDmg": 150.00
+        },
+        "scalingStat": "atk",
+        "skills": [
+          { "name": "Basic Attack - Wooly Attack", "mv": 55.66, "priority": 1 },
+          { "name": "Heavy Attack", "mv": 187.08, "priority": 1 },
+          { "name": "Mid-Air Attack", "mv": 123.26, "priority": 1 },
+          { "name": "Dodge Counter", "mv": 125.94, "priority": 1 },
+          { "name": "Resonance Skill - Flaming Woolies", "mv": 76.61, "priority": 2 },
+          { "name": "Resonance Liberation - Cosmos Rave", "mv": 596.43, "priority": 3 },
+          { "name": "Inherent Skill - Angry Cosmos", "mv": 0, "priority": 4 },
+          { "name": "Inherent Skill - Woolies Cheer Dance", "mv": 198.81, "priority": 5 },
+          { "name": "Intro Skill - Woolies Can Help!", "mv": 198.81, "priority": 6 },
+          { "name": "Forte Circuit - Black & White Woolies", "mv": 0, "priority": 7 },
+          { "name": "Outro Skill - Thermal Field", "mv": 176.76, "priority": 8 }
+        ]
+      },{
+        "name": "Danjin",
+        "stats": {
+          "level": 90,
+          "hp": 9437.50,
+          "atk": 262.50,
+          "def": 1148.89,
+          "critRate": 5.00,
+          "critDmg": 150.00
+        },
+        "scalingStat": "atk",
+        "skills": [
+          { "name": "Basic Attack - Execution", "mv": 57.26, "priority": 1 },
+          { "name": "Heavy Attack", "mv": 111.36, "priority": 1 },
+          { "name": "Mid-Air Attack", "mv": 98.61, "priority": 1 },
+          { "name": "Dodge Counter", "mv": 63.62, "priority": 1 },
+          { "name": "Resonance Skill - Crimson Fragment", "mv": 38.18, "priority": 2 },
+          { "name": "Resonance Liberation - Crimson Bloom", "mv": 441.72, "priority": 3 },
+          { "name": "Inherent Skill - Crimson Light", "mv": 0, "priority": 4 },
+          { "name": "Inherent Skill - Overflow", "mv": 0, "priority": 5 },
+          { "name": "Intro Skill - Vindiction", "mv": 49.71, "priority": 6 },
+          { "name": "Forte Circuit - Serene Vigil", "mv": 0, "priority": 7 },
+          { "name": "Outro Skill - Duality", "mv": 0, "priority": 8 }
+        ]
+      },{
+        "name": "Sanhua",
+        "stats": {
+          "level": 90,
+          "hp": 10062.50,
+          "atk": 275.00,
+          "def": 941.11,
+          "critRate": 5.00,
+          "critDmg": 150.00
+        },
+        "scalingStat": "atk",
+        "skills": [
+          { "name": "Basic Attack - Frigid Light", "mv": 72.42, "priority": 1 },
+          { "name": "Heavy Attack", "mv": 111.35, "priority": 1 },
+          { "name": "Mid-air Attack", "mv": 86.29, "priority": 1 },
+          { "name": "Dodge Counter", "mv": 167.01, "priority": 1 },
+          { "name": "Resonance Skill - Eternal Frost", "mv": 359.85, "priority": 2 },
+          { "name": "Resonance Liberation - Glacial Gaze", "mv": 809.48, "priority": 3 },
+          { "name": "Inherent Skill - Condensation", "mv": 0, "priority": 4 },
+          { "name": "Inherent Skill - Avalanche", "mv": 0, "priority": 5 },
+          { "name": "Intro Skill - Freezing Thorns", "mv": 139.17, "priority": 6 },
+          { "name": "Forte Circuit - Clarity of Mind", "mv": 0, "priority": 7 },
+          { "name": "Outro Skill - Silversnow", "mv": 0, "priority": 8 }
+        ]
+      },{
+        "name": "Lingyang",
+        "stats": {
+          "level": 90,
+          "hp": 10387.50,
+          "atk": 437.50,
+          "def": 1210.00,
+          "critRate": 5.00,
+          "critDmg": 150.00
+        },
+        "scalingStat": "atk",
+        "skills": [
+          { "name": "Basic Attack - Majestic Fists", "mv": 108.34, "priority": 1 },
+          { "name": "Heavy Attack", "mv": 145.73, "priority": 1 },
+          { "name": "Mid-air Attack", "mv": 123.27, "priority": 1 },
+          { "name": "Dodge Counter", "mv": 126.05, "priority": 1 },
+          { "name": "Resonance Skill - Ancient Arts", "mv": 132.61, "priority": 2 },
+          { "name": "Resonance Liberation - Strive: Lion's Vigor", "mv": 397.62, "priority": 3 },
+          { "name": "Inherent Skill - Lion's Pride", "mv": 0, "priority": 4 },
+          { "name": "Inherent Skill - Diligent Practice", "mv": 0, "priority": 5 },
+          { "name": "Intro Skill - Lion Awakens", "mv": 198.82, "priority": 6 },
+          { "name": "Forte Circuit - Unification of Spirits", "mv": 0, "priority": 7 },
+          { "name": "Outro Skill - Frosty Marks", "mv": 587.94, "priority": 8 }
+        ]
+      },{
+        "name": "Yuanwu",
+        "stats": {
+          "level": 90,
+          "hp": 8525.00,
+          "atk": 225.00,
+          "def": 1637.77,
+          "critRate": 5.00,
+          "critDmg": 150.00
+        },
+        "scalingStat": "def",
+        "skills": [
+          { "name": "Basic Attack - Leihuangquan", "mv": 107.84, "priority": 1 },
+          { "name": "Heavy Attack", "mv": 159.05, "priority": 1 },
+          { "name": "Mid-air Attack", "mv": 98.61, "priority": 1 },
+          { "name": "Dodge Counter", "mv": 114.52, "priority": 1 },
+          { "name": "Resonance Skill - Leihuang Master", "mv": 23.86, "priority": 2 },
+          { "name": "Resonance Liberation - Blazing Might", "mv": 349.92, "priority": 3 },
+          { "name": "Inherent Skill - Thunderweaver", "mv": 0, "priority": 4 },
+          { "name": "Inherent Skill - Reserved Confidence", "mv": 0, "priority": 5 },
+          { "name": "Intro Skill - Thunder Bombardment", "mv": 63.62, "priority": 6 },
+          { "name": "Forte Circuit - Unassuming Blade", "mv": 0, "priority": 7 },
+          { "name": "Outro Skill - Lightning Manipulation", "mv": 0, "priority": 8 }
+        ]
+      },
+      {
+        "name": "Jianxin",
+        "stats": {
+          "level": 90,
+          "hp": 14112.50,
+          "atk": 337.50,
+          "def": 1124.44,
+          "critRate": 5.00,
+          "critDmg": 150.00
+        },
+        "scalingStat": "atk",
+        "skills": [
+          { "name": "Basic Attack - Fengyiquan", "mv": 251.15, "priority": 1 },
+          { "name": "Heavy Attack", "mv": 126.07, "priority": 1 },
+          { "name": "Mid-air Attack", "mv": 123.27, "priority": 1 },
+          { "name": "Dodge Counter", "mv": 244.45, "priority": 1 },
+          { "name": "Resonance Skill - Calming Air", "mv": 334.60, "priority": 2 },
+          { "name": "Resonance Liberation - Purification Force Field", "mv": 665.03, "priority": 3 },
+          { "name": "Inherent Skill - Formless Release", "mv": 0, "priority": 4 },
+          { "name": "Inherent Skill - Reflection", "mv": 0, "priority": 5 },
+          { "name": "Intro Skill - Essence of Tao", "mv": 205.00, "priority": 6 },
+          { "name": "Forte Circuit - Primordial Chi Spiral", "mv": 278.32, "priority": 7 },
+          { "name": "Outro Skill - Transcendence", "mv": 0, "priority": 8 }
+        ]
+      },
+      {
+        "name": "Mortefi",
+        "stats": {
+          "level": 90,
+          "hp": 10025.00,
+          "atk": 250.00,
+          "def": 1136.66,
+          "critRate": 5.00,
+          "critDmg": 150.00
+        },
+        "scalingStat": "atk",
+        "skills": [
+          { "name": "Basic Attack - Impromptu Show", "mv": 238.33, "priority": 1 },
+          { "name": "Heavy Attack", "mv": 167.01, "priority": 1 },
+          { "name": "Mid-air Attack", "mv": 46.50, "priority": 1 },
+          { "name": "Dodge Counter", "mv": 194.98, "priority": 1 },
+          { "name": "Resonance Skill - Passionate Variation", "mv": 208.76, "priority": 2 },
+          { "name": "Resonance Liberation - Violent Finale", "mv": 159.05, "priority": 3 },
+          { "name": "Intro Skill - Dissonance", "mv": 168.99, "priority": 4 },
+          { "name": "Forte Circuit - Fury Fugue", "mv": 326.05, "priority": 5 },
+          { "name": "Outro Skill - Rage Transposition", "mv": 0, "priority": 6 }
+        ]
+      },
+      {
+        "name": "Chixia",
+        "stats": {
+          "level": 90,
+          "hp": 9087.50,
+          "atk": 300.00,
+          "def": 953.33,
+          "critRate": 5.00,
+          "critDmg": 150.00
+        },
+        "scalingStat": "atk",
+        "skills": [
+          { "name": "Basic Attack - POW POW", "mv": 268.10, "priority": 1 },
+          { "name": "Heavy Attack", "mv": 80.52, "priority": 1 },
+          { "name": "Mid-air Attack", "mv": 32.21, "priority": 1 },
+          { "name": "Dodge Counter", "mv": 339.97, "priority": 1 },
+          { "name": "Resonance Skill - Whizzing Fight Spirit", "mv": 254.48, "priority": 2 },
+          { "name": "Resonance Liberation - Blazing Flames", "mv": 1115.33, "priority": 3 },
+          { "name": "Intro Skill - Grand Entrance", "mv": 197.84, "priority": 4 },
+          { "name": "Forte Circuit - Heroic Bullets", "mv": 437.39, "priority": 5 },
+          { "name": "Outro Skill - Leaping Flames", "mv": 0, "priority": 6 }
+        ]
+      },
+      {
+        "name": "Yangyang",
+        "stats": {
+          "level": 90,
+          "hp": 10200.00,
+          "atk": 250.00,
+          "def": 1100.00,
+          "critRate": 5.00,
+          "critDmg": 150.00
+        },
+        "scalingStat": "atk",
+        "skills": [
+          { "name": "Basic Attack - Feather as Blade", "mv": 313.84, "priority": 1 },
+          { "name": "Heavy Attack", "mv": 59.64, "priority": 1 },
+          { "name": "Heavy Attack: Zephyr Song", "mv": 106.61, "priority": 1 },
+          { "name": "Mid-air Attack", "mv": 92.44, "priority": 1 },
+          { "name": "Dodge Counter", "mv": 87.07, "priority": 1 },
+          { "name": "Resonance Skill - Zephyr Domain", "mv": 262.43, "priority": 2 },
+          { "name": "Resonance Liberation - Wind Spirals", "mv": 1013.06, "priority": 3 },
+          { "name": "Intro Skill - Cerulean Song", "mv": 159.04, "priority": 4 },
+          { "name": "Forte Circuit - Echoing Feathers", "mv": 126.81, "priority": 5 },
+          { "name": "Outro Skill - Whispering Breeze", "mv": 0, "priority": 6 }
+        ]
+      }
+  
+  ]
+  
